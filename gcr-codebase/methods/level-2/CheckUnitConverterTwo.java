@@ -36,10 +36,10 @@ public class CheckUnitConverterTwo
 	System.out.print("Enter inches value: ");
 	inches = input.nextDouble();
 	
-  	System.out.println("From Km to miles: " + convertYardToFeet(yard));
-	System.out.println("From miles to km: " + convertFeetToYard(feet));
-	System.out.println("From meter to feet: " + convertMeterToInches(meter));
-	System.out.println("From feet to meter: " + convertInchesToMeter(inches));
-	System.out.println("From feet to meter: " + convertInchesToCm(inches));
+  	System.out.println("From yard to feet: " + convertYardToFeet(yard));
+	System.out.println("From feet to yard: " + convertFeetToYard(feet));
+	System.out.println("From meter to inches: " + convertMeterToInches(meter));
+	System.out.println("From inches to meter: " + convertInchesToMeter(inches));
+	System.out.println("From inches to cm: " + convertInchesToCm(inches));
     }
 }
