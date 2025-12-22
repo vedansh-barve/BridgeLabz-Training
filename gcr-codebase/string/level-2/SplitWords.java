@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Integer;
 
 public class SplitWords
 {
@@ -21,6 +20,8 @@ public class SplitWords
 	    else
 		temp += ch;
 	}	
+	if(temp != "")
+	    wordcount++;
 
 	String[] words = new String[wordcount];
 	temp = "";
@@ -36,6 +37,8 @@ public class SplitWords
 	    else
 		temp += ch;
 	}
+	if(temp != "")
+	    words[index++] = temp;
 	return words;
     } 
 		    
@@ -49,6 +52,9 @@ public class SplitWords
 	
 	
 	String[] words = splitTextIntoWords(text);
+	String[] builtIn = text.split(" ");
+	
+	System.out.println("Both are Equal");
 	for(int i=0; i<words.length; i++)
 	{	
 	    System.out.print(words[i] + ", ");
