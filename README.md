@@ -167,5 +167,17 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   🔗 **Code Link:** <br>
   👉[Day-1 Coffee Counyter](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-1/CoffeeCounter.java)
   👉[Day-1 BMI Fitness Tracker](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-1/BMIFitnessTracker.java)
-  ---
+  
 
+  --- Leetcode Practice 1
+**Date:** 24-Dec-2025
+   - Solved Below problems on leetcode
+     - [Two Sum](https://leetcode.com/problems/two-sum/description/)
+     - [Remove Elements](https://leetcode.com/problems/remove-element/description/)
+     - [Search Insert Position](https://leetcode.com/problems/search-insert-position/description)
+     - [Container with most water](https://leetcode.com/problems/container-with-most-water/description)
+     - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-1)
+
+  ---
