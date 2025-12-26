@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class findQuotientRem
+public class FindQuotientRem
 {
     public static void main(String args[])
     {
