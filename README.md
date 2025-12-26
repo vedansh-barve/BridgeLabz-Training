@@ -101,3 +101,19 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
 
 
 ---
+
+
+### 🗓 Day 6 –Concepts & problems on Methods  
+**Date: 20-Dec-2025
+
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 6 – Problems on Methods](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+---
