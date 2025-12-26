@@ -19,7 +19,7 @@ public class IsLeapYear
 	}
 	else
 	{
-	System.out.println("Not a valid year for leap year conditions");
+	    System.out.println("Not a valid year for leap year conditions");
 	}
     }
 }
