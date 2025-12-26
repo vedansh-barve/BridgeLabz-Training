@@ -15,7 +15,7 @@ public class CanStudentsVote
 	    age = input.nextInt();
 	    while(age < 0)
 	    {
-	    	System.out.print("Invalid Age, Enter again ");
+	    	System.out.print("Invalid Age, Enter again: ");
 		age = input.nextInt();
 	    }
 	    studentsAge[i] = age;
