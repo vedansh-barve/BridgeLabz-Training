@@ -1,38 +1,26 @@
 import java.util.Scanner;
 
-public class FindSmallestAndLargest
+public class StudentVoteChecker
 {
-    public static int[] findSmallestAndLargest(int[] numbers)
+    public static boolean canStudentVote(int age)
     {
-	int size = numbers.length;
-	if(size == 0) return new int[]{0, 0};
-	int largest = numbers[0];
-	int smallest = numbers[0];
-	int[] resultArr = new int[2];
-	for(int i=1; i<size ; i++)
-	{
-	    if(numbers[i] > largest)
-		largest = numbers[i];
-	    if(numbers[i] < smallest)
-		smallest = numbers[i];
-	}
-	resultArr[0] = largest;	
-	resultArr[1] = smallest;
-	return resultArr;
+	if(age >= 18)
+	    return true;
+	return false;
     }
-
+	
     public static void main(String args[])
     {
-  	Scanner input = new Scanner(System.in);
-	int[] arr = new int[3];
-	for(int i=0; i<3; i++)
+        Scanner input = new Scanner(System.in);
+	int[] students = new int[10];
+	for(int i=0; i<10; i++)
 	{
-	    System.out.print("Enter Number: ");
-	    arr[i] = input.nextInt();
-	}
-	int[] resultArr = findSmallestAndLargest(arr);
-	System.out.println("Largest number is: " + resultArr[0]);
-	System.out.print("Smallest number is: " + resultArr[1]);
-	
+	    System.out.print("Enter Student " + (i+1) + " age: ");
+	    students[i] = input.nextInt();
+	    if(canStudentVote(students[i]))
+		System.out.println("Yes, Student " + (i+1) + " can vote");
+	    else	
+		System.out.println("No, Student " + (i+1) + " cannot vote");
+	}	
     }
 }
