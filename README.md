@@ -181,3 +181,26 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-1)
 
   ---
+
+## 📅 Day 5 - Scenario Based
+**Date:** 26-Dec-2025
+     -Solved Three Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-2 Election Booth Manager](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-2/ElectionBoothManager.java)
+  👉[Day-2 Metro Smart Card](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-2/MetroSmartCard.java)
+  👉[Day-2 Result Generator](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-2/ResultGenerator.java)
+  
+
+  --- Leetcode Strings Day-1 
+**Date:** 26-Dec-2025
+   - Solved Below problems on leetcode
+     - [First Occurrence in String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+     - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+     - [Add Binary](https://leetcode.com/problems/add-binary/description/)
+     - [Reverse Word in String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+     - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-1)
+
+  ---
