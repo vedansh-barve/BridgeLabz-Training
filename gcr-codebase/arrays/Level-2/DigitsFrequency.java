@@ -32,7 +32,7 @@ public class DigitsFrequency
             freq[digits[strt]]++;
         }
 
-        System.out.println("Digit Frequency:");
+        System.out.println("Digit Frequency are:");
         for (int strt = 0; strt < freq.length; strt++)
         {
             if (freq[strt] > 0)
