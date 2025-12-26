@@ -158,4 +158,14 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Built in functions 1](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details) , 
   👉[Built in functions 2](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/m/ODIxNjE3NTg5MDU5/details)
 
+ ---
+
+  ## 📅 Day 3 - Scenario Based
+**Date:** 24-Dec-2025
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Coffee Counyter](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-1/CoffeeCounter.java)
+  👉[Day-1 BMI Fitness Tracker](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-1/BMIFitnessTracker.java)
+  ---
 
