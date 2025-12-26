@@ -26,7 +26,7 @@ public class CreateSubString
 	endIdx = input.nextInt();
 	
 	String resultString = createSubString(str, strtIdx, endIdx);
-	String resSubString = str.substring(strtIdx, endIdx+1);
+	String resSubString = str.substring(strtIdx, endIdx);
 	if(resultString.equals(resSubString))
 	{ 
             System.out.println("Both Strings are equal");
