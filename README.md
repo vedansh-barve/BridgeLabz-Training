@@ -204,3 +204,42 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-1)
 
   ---
+
+## 📅 Day 6 - Leetcode-codebase 
+	
+  --- Leetcode Strings Day-2 
+**Date:** 27-Dec-2025
+   - Solved Below problems on leetcode
+     - [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
+     - [Roman Conversion](https://leetcode.com/problems/roman-to-integer/description/)
+     - [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+     - [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
+     - [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-2)
+
+ --- Leetcode Strings Day-3 
+**Date:** 27-Dec-2025
+   - Solved Below problems on leetcode
+     - [Basic Calculator ](https://leetcode.com/problems/basic-calculator/)
+     - [Basic Calculator Two](https://leetcode.com/problems/basic-calculator-ii/description/)
+     - [Excel Sheet](https://leetcode.com/problems/excel-sheet-column-number/)
+     - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+     - [Anagram valid](https://leetcode.com/problems/valid-anagram/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
+
+ --- Leetcode Arrays Day-2 
+**Date:** 27-Dec-2025
+   - Solved Below problems on leetcode
+     - [Closest Three Sum](https://leetcode.com/problems/3sum-closest/)
+     - [Image Rotate](https://leetcode.com/problems/rotate-image/description/)
+     - [Max Subarray](https://leetcode.com/problems/maximum-subarray/)
+     - [Three Sum](https://leetcode.com/problems/3sum/description/)
+     - [In Sorted matrix count negative](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-2)
+
+
+
+  ---
