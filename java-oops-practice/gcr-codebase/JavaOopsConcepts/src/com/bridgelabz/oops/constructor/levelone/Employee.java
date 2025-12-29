@@ -25,7 +25,7 @@ public class Employee {
             this.salary = salary;
         } else {
             System.out.println("Invalid salary amount");
-        }
+        }x
     }
 	
     public static void main(String[] args) {
