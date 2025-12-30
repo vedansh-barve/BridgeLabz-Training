@@ -26,9 +26,20 @@ public class SandeepFitness
 		break;
 	    }
 
-	    System.out.println("Enter Pushup Count for Day " + (atIdx+1) + ": ");
+	    System.out.println("Enter Pushup Count for Day " + (atIdx+1) + " (-1 -> for Rest day): ");
 	    pushupCount[atIdx] = input.nextInt();
-	    total += pushupCount[atIdx++];
+	    while(pushupCount[atIdx] < -1)
+	    {
+		System.out.println("Invalid count -----------------, Enter Again");
+		System.out.println("Enter Pushup Count for Day " + (atIdx+1) + " (-1 -> for Rest day): ");
+	    	pushupCount[atIdx] = input.nextInt();
+	    }
+	
+	    if(pushupCount[atIdx] != -1)
+	    {
+	        total += pushupCount[atIdx];
+	    }
+	    atIdx++;
 	}
     }
 
