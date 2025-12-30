@@ -250,7 +250,7 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
 
 ## 📅 Day 1 - Solved Three Scenario-based Problems and Leetcode-codebase
 **Date:** 29-Dec-2025
-	-Solved Three Scenario-based Problems   
+	-Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
   👉[Day-1 Discount](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)
