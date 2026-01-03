@@ -11,7 +11,7 @@ public class EcommerceProduct {
 
 		customer.placeOrder(order);
 
-		System.out.println(order.calculateTotal()); // 1050
+		System.out.println(order.calculateTotal());
 
 	}
 }
