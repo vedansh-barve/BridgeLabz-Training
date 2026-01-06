@@ -271,48 +271,57 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
 
   ---
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-## 📅 Day 6 - Solved Three Scenario-based Problems and Leetcode-codebase
-**Date:** 03-Jan-2025
-	-Solved Five Scenario-based Problems   
+
+
+## 📅 Day 2 - Scenario Based and Leetcode based
+   --- Scenario based practice-4
+**Date:** 30-Dec-2025
+     -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-1 Discount](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)
-  👉[Day-1 Number Guessing](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)
-  👉[Day-1 Parking lot](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/ParkingLot.java)
-  --- Leetcode Strings Day-1 
-**Date:** 03-Jan-2025
+  👉[Day-4 Temperature Logger](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/Temprature.java)
+  👉[Day-4 Train Booking System](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/TrainReservation.java)
+  👉[Day-4 Sandeep's Fitness Tracker](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/SandeepFitness.java)
+  👉[Day-4 Movie Ticket Booking](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/MovieTicket.java)
+  👉[Day-4 LibraryFineCalculator](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/LibraryReminder.java)
+  
+
+  --- Leetcode Practice practice 7
+**Date:** 30-Dec-2025
    - Solved Below problems on leetcode
-     - [Find First and Last Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
-     - [Plus One](https://leetcode.com/problems/plus-one/description/)
-     - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-     - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
-     - [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/)    
+     - [Reverse String](https://leetcode.com/problems/reverse-string/description/)
+     - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+     - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+     - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+     - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)    
   🔗 **Code Link:** <br>
   👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
 
   ---
 
-# Week4 : Worked on Scenario Based and Leetcode-codebase
-
- 📅 Day 1 - Solved Two Scenario-based Problems and GCR-codebase
-**Date:** 05-Jan-2025
-	-Solved two Scenario-based Problems   
+  
+  ## 📅 Day 3 - Scenario Based (END) and Leetcode based
+   --- Scenario based practice-5
+**Date:** 31-Dec-2025
+     -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-1 Campus Connect](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)
-  👉[Day-1 Swift Cart](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)
+  👉[Day-5 Bus Route Distance Tracker](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/BusRouteDistance.java)
+  👉[Day-5 Currency Exchange](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/CurrencyExchange.java)
+  👉[Day-5 Digital Watch](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/DigitalWatch.java)
+  👉[Day-5 Lucky Draw](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/FestivalLuckyDraw.java)
+  👉[Day-5 Quiz Application](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/OnlineQuiz.java)
+  
 
-    --- Leetcode Strings Day-1 
-**Date:** 05-Jan-2025
+  --- Leetcode Practice practice 8
+**Date:** 31-Dec-2025
    - Solved Below problems on leetcode
-     - [Find First and Last Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
-     - [Plus One](https://leetcode.com/problems/plus-one/description/)
-     - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-     - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
-     - [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/)    
+     - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+     - [Single Number](https://leetcode.com/problems/single-number/description/)
+     - [Majority Element](https://leetcode.com/problems/majority-element/description/)
+     - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+     - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)    
   🔗 **Code Link:** <br>
-  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
 
   ---
-
