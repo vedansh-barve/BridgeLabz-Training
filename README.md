@@ -68,3 +68,16 @@
 👉 [Day 5 – Object Modeling](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance)
 
 
+-----
+
+### 🗓 Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism 
+**Date:** 01-Jan-2026
+
+- Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes.
+- Solved  programming questions based on Encapsulation.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 6 – Object Modeling](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)
+
+
