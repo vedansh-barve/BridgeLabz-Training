@@ -80,4 +80,25 @@
 🔗 **Code Link:**  
 👉 [Day 6 – Object Modeling](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)
 
+-----------
+
+# Week 3: Object Oriented Programming  
+
+-----
+
+### 🗓 Day 1 – Scenario based Questions 
+**Date:** 02-Jan-2026
+
+- Solved Five Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 1 – Hospital Management](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/hospitalmanagementsystem)
+-👉 [Day 1 – Vehicle Rental](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/VehicleRental)
+-👉 [Day 1 – E-Wallet App](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/ewalletapp)
+-👉 [Day 1 – University course enrollment](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/universitycourseenrollment)
+
+
+
+
 
