@@ -364,4 +364,30 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
      [Day 6: Encapsulation](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)   
 
 
+  ---
+
+  ## 📅 Day 5 - Scenario-based(OOPS) And Started DSA (Data Structure Algorithms)
+  --- Leetcode Practice practice 10<br>
+**Date:** 02-Jan-2026<br>
+    --- Scenario based practice-1<br>
+     -Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Hospital Management System](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/hospitalmanagementsystem)<br>
+  👉[Day-1 E-Wallet Application](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/ewalletapp)<br>
+  👉[Day-1 University Course Management System](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/universitycourseenrollment)<br>
+  👉[Day-1 Vehicle Rental System](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/VehicleRental)<br>
+  
+
+  ---Day 1 Data Structure Algorithms Fundamental  <br>
+     > Studied Data Structure Introduction and LinkedList and its Types <br>
+     > Solved  programming questions based on LinkedList<br>
+     > Pushed the codes to GitHub  <br>
+    🔗 **Code Link:** <br>
+  👉[Day-1 Singly LinkedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/singlylinkedlist)<br>
+  👉[Day-1 Doubly LikedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/doublylinkedlist)<br>
+  👉[Day-1 Circular LinkedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/circularlinkedlist)<br>
+
+
+
  
