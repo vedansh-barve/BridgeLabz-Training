@@ -412,3 +412,40 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   ---
   
   
+  ## 📅 Day 7 - Leetcode based
+  --- Leetcode Practice practice 12<br>
+**Date:** 04-Jan-2026<br>
+   - Solved Below problems on leetcode
+     - [Count and Say](https://leetcode.com/problems/count-and-say/description/)
+     - [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+     - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
+     - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+     - [Valid Number](https://leetcode.com/problems/valid-number/description/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
+
+  ---
+  
+# Week 4 : Solved Scenario-based Problems and Data Structures
+
+  ## 📅 Day 1 - Scenario-based(OOPS) And DSA (Data Structure Algorithms)
+**Date:** 05-Jan-2026<br>
+   --- Scenario based practice-3<br>
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-3 Campus-Connect](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/campusconnect)<br>
+  👉[Day-3 Swift-Cart](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/swiftcart)<br>
+
+
+  ---Day 3 Data Structure Algorithms <br>
+     > Studied Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br>
+     > Solved  programming questions based on - Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br>
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 3: Sorting](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/sortingalgorithm)  
+
+  ---
+  
+  
+
