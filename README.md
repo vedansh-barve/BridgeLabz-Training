@@ -246,28 +246,38 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
 
   ---
 
-# Week3 : Worked on Scenario Based and Leetcode-codebase
-
-## 📅 Day 1 - Solved Three Scenario-based Problems and Leetcode-codebase
-**Date:** 29-Dec-2025
-	-Solved Five Scenario-based Problems   
+# Week 3 : Solved Problems and Object Oriented Programming 
+    
+  ## 📅 Day 1 - Scenario Based, Leetcode based and Object Oriented Programming 
+   --- Scenario based practice-3<br>
+**Date:** 29-Dec-2025<br>
+     -Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉[Day-1 Discount](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)
-  👉[Day-1 Number Guessing](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)
-  👉[Day-1 Parking lot](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/ParkingLot.java)
-  👉[Day-1 Phone Recharge Simulator](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/PhoneRecharge.java)
-  👉[Day-1 School Bus Attendance System](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/SchoolBusAttendance.java)
+  👉[Day-3 Parking Lot](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/ParkingLot.java)<br>
+  👉[Day-3 Number Guessing Game](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)<br>
+  👉[Day-3 Shopping Bill](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)<br>
+  👉[Day-3 Student Bus Attaindance](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/SchoolBusAttendance.java)<br>
+  👉[Day-3 Phone Recharge](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/PhoneRecharge.java)<br>
+  
 
-  --- Leetcode Strings Day-1 
-**Date:** 29-Dec-2025
+  --- Leetcode Practice practice <br>
+**Date:** 29-Dec-2025<br>
    - Solved Below problems on leetcode
-     - [Find First and Last Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
-     - [Plus One](https://leetcode.com/problems/plus-one/description/)
-     - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-     - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
-     - [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/)    
+     - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+     - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+     - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+     - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+     - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)    
   🔗 **Code Link:** <br>
-  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
+  👉[Code of above Problems](https://github.com/swarajtaneja/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-6)
+  
+  ---Day 3 Object Oriented Programming Fundamental  <br>
+     > Studied fundamentals of - this, static, final, instanceof operator <br>
+     > Solved  programming questions based on in built function <br>
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 3: In Built Function](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)   
 
-  ---
+
+ 
