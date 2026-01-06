@@ -99,6 +99,20 @@
 -👉 [Day 1 – University course enrollment](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/universitycourseenrollment)
 
 
+-----
+
+### 🗓 Day 2 – Scenario based Questions 
+**Date:** 03-Jan-2026
+
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 2 – Cabby-Go](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/CabbyGo)
+-👉 [Day 2 – My Bank](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/mybank)
+
+
+
 
 
 
