@@ -28,4 +28,16 @@
 🔗 **Code Link:**  
 👉 [Day 2 – Constructor and Access Modifiers](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/constructor/levelone)
 
+-----
+
+### 🗓 Day 3 – Object Oriented Programming Fundamental 
+**Date:** 29-Dec-2025
+
+- Solved  programming questions based on in built function.
+- Studied fundamentals of - this, static, final, instanceof operator.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 3 – Constructor and Access Modifiers](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
+
 
