@@ -26,3 +26,16 @@
 
 
 -----
+
+### 🗓 Day 3 – Data Structure Algorithms ( Sorting Algorithms ) 
+**Date:** 05-Jan-2026
+
+- Studied Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort, Heap Sort
+- Solved  programming questions based on - Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort
+
+🔗 **Code Link:**  
+-👉 [Day 3 – Sorting Algorithms](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/sortingalgorithm)
+
+
+-----
+
