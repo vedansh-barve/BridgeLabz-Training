@@ -39,3 +39,16 @@
 
 -----
 
+### 🗓 Day 4 – Data Structure Algorithms ( Linear And Binary Search ) 
+**Date:** 06-Jan-2026
+
+- Studied Linear and Binary Search
+- Studied FileReader, InputStreamReader, StringBuilder, StringBuffer
+- Solved  programming questions based on - Linear Search, Binary Search, FileReader, InputStreamReader, StringBuilder and StringBuffer
+
+🔗 **Code Link:**  
+-👉 [Day 4 – Linear and binary search](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/linearbinarysearch)
+
+
+-----
+
