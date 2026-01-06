@@ -16,5 +16,16 @@
 
 -----
 
+### 🗓 Day 2 – Object Oriented Programming Fundamental 
+**Date:** 27-Dec-2025
+
+- Studied constructors.
+- studied  about instance and class variables.
+- studied about access modifiers.
+- Studied the use of getter and setter.
+- Solved programming questions and pushed codes to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 2 – Constructor and Access Modifiers](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/constructor/levelone)
 
 
