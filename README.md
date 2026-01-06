@@ -273,7 +273,7 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   ---
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ## 📅 Day 6 - Solved Three Scenario-based Problems and Leetcode-codebase
-**Date:** 03-Dec-2025
+**Date:** 03-Jan-2025
 	-Solved Five Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
@@ -281,7 +281,7 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Day-1 Number Guessing](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)
   👉[Day-1 Parking lot](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/ParkingLot.java)
   --- Leetcode Strings Day-1 
-**Date:** 03-Dec-2025
+**Date:** 03-Jan-2025
    - Solved Below problems on leetcode
      - [Find First and Last Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
      - [Plus One](https://leetcode.com/problems/plus-one/description/)
@@ -304,7 +304,7 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Day-1 Swift Cart](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)
 
     --- Leetcode Strings Day-1 
-**Date:** 29-Dec-2025
+**Date:** 05-Jan-2025
    - Solved Below problems on leetcode
      - [Find First and Last Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
      - [Plus One](https://leetcode.com/problems/plus-one/description/)
