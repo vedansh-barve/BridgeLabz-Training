@@ -388,6 +388,27 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Day-1 Doubly LikedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/doublylinkedlist)<br>
   👉[Day-1 Circular LinkedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/circularlinkedlist)<br>
 
-
-
+  ---
+  
+  
+  ## 📅 Day 6 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
+  --- Leetcode Practice practice 11<br>
+**Date:** 03-Jan-2026<br>
+  --- Scenario based practice-2<br>
+     -Solved Two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-2 CabbyGo](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/CabbyGo)<br>
+  👉[Day-2 MyBank](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/mybank)<br>
  
+  ---Day 2 Data Structure Algorithms <br>
+     > Studied Stack, Queue, HashMap and Hashing Function <br>
+     > Solved  programming questions based on - Stack, Queue, HashMap and Hashing Function<br>
+     > Pushed the codes to GitHub  <br>
+     🔗 **Code Link:** <br>
+  👉[Day-2 Stack And Queue](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/stackandqueue)<br>
+  👉[Day-2 Hashmap](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/hashmapk)<br>    
+
+  ---
+  
+  
