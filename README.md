@@ -271,3 +271,48 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
 
   ---
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+## 📅 Day 6 - Solved Three Scenario-based Problems and Leetcode-codebase
+**Date:** 03-Dec-2025
+	-Solved Five Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Discount](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)
+  👉[Day-1 Number Guessing](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)
+  👉[Day-1 Parking lot](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/ParkingLot.java)
+  --- Leetcode Strings Day-1 
+**Date:** 03-Dec-2025
+   - Solved Below problems on leetcode
+     - [Find First and Last Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+     - [Plus One](https://leetcode.com/problems/plus-one/description/)
+     - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+     - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+     - [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
+
+  ---
+
+# Week4 : Worked on Scenario Based and Leetcode-codebase
+
+ 📅 Day 1 - Solved Two Scenario-based Problems and GCR-codebase
+**Date:** 05-Jan-2025
+	-Solved two Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-1 Campus Connect](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)
+  👉[Day-1 Swift Cart](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)
+
+    --- Leetcode Strings Day-1 
+**Date:** 29-Dec-2025
+   - Solved Below problems on leetcode
+     - [Find First and Last Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+     - [Plus One](https://leetcode.com/problems/plus-one/description/)
+     - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+     - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+     - [Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/)    
+  🔗 **Code Link:** <br>
+  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
+
+  ---
+
