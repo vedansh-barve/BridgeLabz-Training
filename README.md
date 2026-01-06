@@ -111,6 +111,19 @@
 -👉 [Day 2 – Cabby-Go](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/CabbyGo)
 -👉 [Day 2 – My Bank](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/mybank)
 
+-----
+
+### 🗓 Day 3 – Scenario based Questions 
+**Date:** 05-Jan-2026
+
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 3 – Campus Connect](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/campusconnect)
+-👉 [Day 3 – Swift Cart](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/swiftcart)
+
+
 
 
 
