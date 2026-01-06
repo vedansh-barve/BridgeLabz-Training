@@ -38,6 +38,21 @@
 - Pushed the codes to GitHub.
 
 🔗 **Code Link:**  
-👉 [Day 3 – Constructor and Access Modifiers](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
+👉 [Day 3 – In Built Function](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
+
+
+-----
+
+### 🗓 Day 4 – Object Modeling, Relationships and Class Diagram 
+**Date:** 30-Dec-2025
+
+- Studied fundamentals of - Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams, Relationships.
+- Solved  programming questions based on object modeling and class diagram.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 4 – Object Modeling](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling)
+
+
 
 
