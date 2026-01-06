@@ -448,4 +448,25 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   ---
   
   
+  ## 📅 Day 2 - Scenario-based(OOPS) And Data Structures
+  --- Leetcode Practice practice 14<br>
+**Date:** 06-Jan-2026<br>
+   --- Scenario based practice-4<br>
+     -Solved Four Scenario-based Problems   
+	
+  🔗 **Code Link:** <br>
+  👉[Day-4 PetPal](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/PetPal)<br>
+  👉[Day-4 Event Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/eventease)<br>
+  👉[Day-4 Fit Track](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/fittrack)<br>
+  👉[Day-4 Edu Mentor](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/edumentor)<br>
+
+--- Day 3 Data Structure Algorithms (Linear And Binary Search) <br>
+     > Studied Linear Search, Binary Search <br>
+     > Solved  programming questions based on - Linear Search, Binary Search <br>
+     > Pushed the codes to GitHub  <br>
+🔗 **Code Link:** <br>
+  -👉[Day-4 Linear And Binary Search](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/linearbinarysearch)<br>
+
+
+  ---
 
