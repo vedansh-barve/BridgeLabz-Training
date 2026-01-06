@@ -351,3 +351,17 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
 
   ---
   
+
+  ## 📅 Day 4 - Object Oriented Programming 
+  --- Leetcode Practice practice 9<br>
+**Date:** 01-Jan-2026<br>
+  
+  ---Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism <br>
+     > Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes <br>
+     > Solved  programming questions based on Encapsulation<br> 
+     > Pushed the codes to GitHub  <br>
+     Code link  
+     [Day 6: Encapsulation](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)   
+
+
+ 
