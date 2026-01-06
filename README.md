@@ -124,6 +124,20 @@
 -👉 [Day 3 – Swift Cart](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/swiftcart)
 
 
+-----
+
+### 🗓 Day 4 – Scenario based Questions 
+**Date:** 06-Jan-2026
+
+- Solved Four Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 4 – Edu-Mentor](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/edumentor)
+-👉 [Day 4 – Fit Track](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/fittrack)
+-👉 [Day 4 – Pet Pal](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/PetPal)
+-👉 [Day 4 – Event Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/eventease)
+
 
 
 
