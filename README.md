@@ -52,3 +52,13 @@
 
 -----
 
+
+### 🗓 Day 5 – Data Structure Algorithms ( Algorithms ) 
+**Date:** 07-Jan-2026
+
+- Studied about Algorithm's
+- Studied Runtime Analysis & Big-O Notation
+- Solved  programming questions based on - Algorithm's Runtime Analysis & Big-O Notation
+
+🔗 **Code Link:**  
+-👉 [Day 4 – Big-O Notation]()
