@@ -411,21 +411,6 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
 
   ---
   
-  
-  ## 📅 Day 7 - Leetcode based
-  --- Leetcode Practice practice 12<br>
-**Date:** 04-Jan-2026<br>
-   - Solved Below problems on leetcode
-     - [Count and Say](https://leetcode.com/problems/count-and-say/description/)
-     - [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
-     - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
-     - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
-     - [Valid Number](https://leetcode.com/problems/valid-number/description/)    
-  🔗 **Code Link:** <br>
-  👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
-
-  ---
-  
 # Week 4 : Solved Scenario-based Problems and Data Structures
 
   ## 📅 Day 1 - Scenario-based(OOPS) And DSA (Data Structure Algorithms)
@@ -460,12 +445,46 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
   👉[Day-4 Fit Track](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/fittrack)<br>
   👉[Day-4 Edu Mentor](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/edumentor)<br>
 
---- Day 3 Data Structure Algorithms (Linear And Binary Search) <br>
+--- Day 4 Data Structure Algorithms (Linear And Binary Search) <br>
      > Studied Linear Search, Binary Search <br>
      > Solved  programming questions based on - Linear Search, Binary Search <br>
      > Pushed the codes to GitHub  <br>
 🔗 **Code Link:** <br>
   -👉[Day-4 Linear And Binary Search](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/linearbinarysearch)<br>
+
+
+---
+---
+   
+  ## 📅 Day 3 - Scenario-based(OOPS) And Data Structures
+**Date:** 07-Jan-2026<br>
+   --- Scenario based practice-5<br>
+     -Solved Three Scenario-based Problems   
+	
+🔗 **Code Link:**  
+-👉 [Day 5 – Park Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/parkease)
+-👉 [Day 5 – Loan Buddy](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/loanbuddy)
+-👉 [Day 5 – Book Baazar](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/bookbaazar)
+
+--- Day 5 Data Structure Algorithms (Algorithms) <br>
+    - Studied about Algorithm's <br>
+    - Studied Runtime Analysis & Big-O Notation <br>
+    - Solved  programming questions based on - Algorithm's Runtime Analysis & Big-O Notation <br>
+
+🔗 **Code Link:**  <br>
+-👉 [Day 5 – Big-O Notation]() <br>
+
+
+  ---
+
+  ## 📅 Day 4 - Scenario-based(OOPS) Problems
+**Date:** 08-Jan-2026<br>
+   --- Scenario based practice-6<br>
+     -Solved Two Scenario-based Problems   
+	
+🔗 **Code Link:**  
+-👉 [Day 6 – Medi-Store](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day6/medistore)
+-👉 [Day 6 – Tour-mate](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day6/tourmate)
 
 
   ---
