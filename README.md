@@ -138,6 +138,19 @@
 -👉 [Day 4 – Pet Pal](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/PetPal)
 -👉 [Day 4 – Event Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/eventease)
 
+### 🗓 Day 5 – Scenario based Questions 
+**Date:** 07-Jan-2026
+
+- Solved Three Scenario-based Problems.
+- Pushed the codes to GitHub.
+
+🔗 **Code Link:**  
+-👉 [Day 5 – Park Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/parkease)
+-👉 [Day 5 – Loan Buddy](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/loanbuddy)
+-👉 [Day 5 – Book Baazar](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/bookbaazar)
+
+
+
 
 
 
