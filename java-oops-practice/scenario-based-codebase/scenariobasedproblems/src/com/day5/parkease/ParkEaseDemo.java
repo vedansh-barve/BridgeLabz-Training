@@ -21,6 +21,7 @@ public class ParkEaseDemo {
 		 IPayable payableCar = (IPayable) car;
 		 System.out.println("Car Charges: ₹" + payableCar.calculateCharges(6));
 
+		 // displaying logs
 		 parking.showLogs();	 
 	}
 

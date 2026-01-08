@@ -5,14 +5,15 @@ public class HomeLoan extends LoanApplication implements IApprovable{
 	        super("Home Loan", term, interestRate);
 	    }
 
-	    @Override
-	    public void approveLoan(Applicant applicant) {
-	        if (applicant.getCreditScore() >= 700 && applicant.getIncome() > 30000) {
-	            System.out.println("Home Loan Approved for " + applicant.getName());
-	        } else {
-	            System.out.println("Home Loan Rejected for " + applicant.getName());
-	        }
-	    }
+	 @Override
+	 public void approveLoan(Applicant applicant) {
+		 if (applicant.getCreditScore() >= 700 && applicant.getIncome() > 30000) {
+			 System.out.println("Home Loan Approved for " + applicant.getName());
+		 } 
+		 else {
+			 System.out.println("Home Loan Rejected for " + applicant.getName());
+		 }
+	 }
 	
 	@Override
 	public double calculateEMI(double principle, double rateOfInterest, int term) {

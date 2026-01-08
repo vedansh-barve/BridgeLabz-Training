@@ -11,12 +11,11 @@ public class LoanBuddyDemo {
 	        System.out.println("Auto Loan EMI: ₹" +
 	                autoLoan.calculateEMI(applicant.getLoanAmount(), 0.09, 60));
 
-	        System.out.println("--------------------------------");
+	        System.out.println("---------------------------");
 
 	        IApprovable homeLoan = new HomeLoan(120, 0.07);
 	        homeLoan.approveLoan(applicant);
-	        System.out.println("Home Loan EMI: ₹" +
-	                homeLoan.calculateEMI(applicant.getLoanAmount(), 0.07, 120));
+	        System.out.println("Home Loan EMI: ₹" + homeLoan.calculateEMI(applicant.getLoanAmount(), 0.07, 120));
 	}
 
 }
