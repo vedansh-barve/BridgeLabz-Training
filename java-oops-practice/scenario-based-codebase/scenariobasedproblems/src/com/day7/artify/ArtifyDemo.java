@@ -12,6 +12,7 @@ public class ArtifyDemo {
 		User ashish = new User("Ashish", 900);
 		
 		d1.purchase(ashish);
-		d2.purchase(ashish);	}
+		d2.purchase(ashish);
+	}
 
 }

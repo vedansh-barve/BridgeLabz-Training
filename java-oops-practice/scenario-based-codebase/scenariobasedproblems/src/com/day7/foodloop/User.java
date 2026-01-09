@@ -16,7 +16,7 @@ public class User implements IOrderable{
     }
 	
 	@Override
-	public void placeOrder(List<FoodItem> orderItems) {
+	public void placeOrder() {
 		// create order here
 		System.out.println("--------------- Order Created Successfully -----------------");
 		System.out.println("Order placed by " + name);
