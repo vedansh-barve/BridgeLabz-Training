@@ -489,3 +489,15 @@ https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr
 
   ---
 
+  ## 📅 Day 5 - Scenario-based(OOPS) Problems
+**Date:** 09-Jan-2026<br>
+   --- Scenario based practice-7<br>
+     -Solved Three Scenario-based Problems   
+	
+🔗 **Code Link:**  
+-👉 [Day 7 – Artify](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/artify)
+-👉 [Day 7 – Food-Loop](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/foodloop)
+-👉 [Day 7 – SkillForge](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/skillforge)
+
+  ---
+
