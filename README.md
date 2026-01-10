@@ -168,10 +168,19 @@
 -👉 [Day 6 – Tour-mate](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day6/tourmate)
 
 
+-----
 
 
+### 🗓 Day 7 – Scenario based Questions 
+**Date:** 09-Jan-2026
 
+- Solved Three Scenario-based Problems of OOPS.  
+- Pushed the codes to GitHub.
 
+🔗 **Code Link:**  
+-👉 [Day 7 – Artify](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/artify)
+-👉 [Day 7 – Food-Loop](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/foodloop)
+-👉 [Day 7 – SkillForge](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/skillforge)
 
 
 
