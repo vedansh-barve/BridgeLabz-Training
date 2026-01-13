@@ -62,3 +62,18 @@
 
 🔗 **Code Link:**  
 -👉 [Day 5 – Big-O Notation]()
+
+-----
+
+### 🗓 Day 6 – Data Structure Algorithms ( Scenario-Based Problems ) 
+**Date:** 10-Jan-2026
+
+- Solved Three Scenario-Based Problems
+
+🔗 **Code Link:**  
+-👉 [Day 6 – Book Shelf](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/bookshelf)
+-👉 [Day 6 – Browser Buddy](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/browserbuddy)
+-👉 [Day 6 – Ambulance Route](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/ambulanceroute)
+
+
+-----
