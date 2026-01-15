@@ -92,10 +92,10 @@ Date: 06 Jan 2026--- Scenario based(OOP's) practice-4<br>
      -Solved Four Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
- 👉 [Day 4 – Edu-Mentor](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/edumentor)
- 👉 [Day 4 – Fit Track](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/fittrack)
- 👉 [Day 4 – Pet Pal](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/PetPal)
- 👉 [Day 4 – Event Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/eventease)
+ 👉 [Day 4 – Edu-Mentor](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/edumentor)<br>
+ 👉 [Day 4 – Fit Track](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/fittrack)<br>
+ 👉 [Day 4 – Pet Pal](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/PetPal)<br>
+ 👉 [Day 4 – Event Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/eventease)<br>
 
 
    
@@ -103,9 +103,9 @@ Date: 07 Jan 2026--- Scenario based(OOP's) practice-5<br>
      -Solved Three Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉 [Day 5 – Park Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/parkease)
-  👉 [Day 5 – Loan Buddy](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/loanbuddy)
-  👉 [Day 5 – Book Baazar](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/bookbaazar)
+  👉 [Day 5 – Park Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/parkease)<br>
+  👉 [Day 5 – Loan Buddy](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/loanbuddy)<br>
+  👉 [Day 5 – Book Baazar](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day5/bookbaazar)<br>
 
 
    
@@ -113,8 +113,8 @@ Date: 08 Jan 2026--- Scenario based(OOP's) practice-6<br>
      -Solved Two Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉 [Day 6 – Medi-Store](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day6/medistore)
-  👉 [Day 6 – Tour-mate](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day6/tourmate)
+  👉 [Day 6 – Medi-Store](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day6/medistore)<br>
+  👉 [Day 6 – Tour-mate](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day6/tourmate)<br>
 
 
 
@@ -123,9 +123,9 @@ Date: 09 Jan 2026--- Scenario based(OOP's) practice-7<br>
      -Solved Three Scenario-based Problems   
 	
   🔗 **Code Link:** <br>
-  👉 [Day 7 – Artify](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/artify)
-  👉 [Day 7 – Food-Loop](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/foodloop)
-  👉 [Day 7 – SkillForge](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/skillforge)
+  👉 [Day 7 – Artify](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/artify)<br>
+  👉 [Day 7 – Food-Loop](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/foodloop)<br>
+  👉 [Day 7 – SkillForge](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day7/skillforge)<br>
 
 
 Date: 12 Jan 2026--- Scenario based(OOP's) practice-8<br>
