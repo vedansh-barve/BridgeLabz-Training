@@ -1,0 +1,42 @@
+package com.day8.gamebox;
+
+public class Game implements IDownloadable {
+	 protected String title;
+	 protected String genre;
+	 protected double price;
+	 protected double rating;
+
+	 public Game(String title, String genre, double price, double rating) {
+		 this.title = title;
+		 this.genre = genre;
+		 this.price = price;
+		 this.rating = rating;
+	 }
+
+	 public Game(String title, String genre) {
+		 this(title, genre, 0.0, 0.0);
+	 }
+
+	 public String getTitle() {
+		 return title;
+	 }
+
+	 public double getPrice() {
+		 return price;
+	 }
+
+	 public Game applyDiscount(double percentage) {
+		 double discountedPrice = price - (price * percentage / 100);
+		 return new Game(title, genre, discountedPrice, rating);
+	 }
+
+	 @Override
+	 public void download() {
+		 System.out.println(title + " is downloading...");
+	 }
+
+	 @Override
+	 public void playDemo() {
+		 System.out.println("Playing demo of the game...");
+	 }
+}
