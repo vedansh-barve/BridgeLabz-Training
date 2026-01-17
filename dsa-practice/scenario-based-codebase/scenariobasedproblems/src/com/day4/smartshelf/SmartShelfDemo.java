@@ -23,7 +23,7 @@ public class SmartShelfDemo {
 
 		 insertionSort(books);
 
-		 System.out.println("📚 Sorted Reading List:");
+		 System.out.println("Sorted Reading List:");
 		 for (Book b : books) {
 			 System.out.println(b.title);
 		 }
