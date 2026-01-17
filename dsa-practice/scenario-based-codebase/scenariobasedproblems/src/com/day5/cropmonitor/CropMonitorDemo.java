@@ -14,5 +14,4 @@ public class CropMonitorDemo {
 	            System.out.println(s.timeStamp + " - " + s.temp);
 	        }
 	}
-
 }
