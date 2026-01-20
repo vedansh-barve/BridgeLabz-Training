@@ -142,3 +142,16 @@ Date: 13 Jan 2026--- Scenario based(OOP's) practice-9<br>
   👉[Day-9 Pay Xpress](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/payxpress)<br>
   👉[Day-9 Bird Sanctuary](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/birdsanctuary)<br>
   
+
+Date: 17 Jan 2026--- Scenario based(OOP's) practice-10<br>
+     -Solved Two Scenario-based Problems  
+  🔗 **Code Link:** <br>
+  👉[Day-10 Bag N Ball](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day10/bagnball)<br>
+  👉[Day-10 Line Comparison](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day10/linecomparison)<br>
+  
+
+
+Date: 19 Jan 2026--- Scenario based(OOP's) practice-11<br>
+     -Solved One Scenario-based Problems  
+  🔗 **Code Link:** <br>
+  👉[Day-11 Address Book](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day11/addressbooksystem)<br>  
