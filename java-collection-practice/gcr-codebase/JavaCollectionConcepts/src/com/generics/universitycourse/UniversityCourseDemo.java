@@ -20,11 +20,7 @@ public class UniversityCourseDemo {
 
         science.displayCourses();
 
-        List<CourseType> courseTypes = Arrays.asList(
-                new ExamCourse(),
-                new AssignmentCourse(),
-                new ResearchCourse()
-        );
+        List<CourseType> courseTypes = Arrays.asList(new ExamCourse(), new AssignmentCourse(), new ResearchCourse());
 
         System.out.println("\nAvailable Course Types:");
         CourseUtils.displayCourses(courseTypes);
