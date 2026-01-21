@@ -127,3 +127,11 @@ Date: 20 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
   👉[Day-8 Food Fest](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day8/foodfest)<br>
   👉[Day-8 Gamer Zone](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day8/gamerzone)<br>
   👉[Day-8 Movie Time](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day8/movietime)<br>
+
+
+Date: 21 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Two Scenario-based Problems (Day-9)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-9 Tailor Shop](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/tailorshop)<br>
+  👉[Day-9 MedWare House](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/medwarehouse)<br>
