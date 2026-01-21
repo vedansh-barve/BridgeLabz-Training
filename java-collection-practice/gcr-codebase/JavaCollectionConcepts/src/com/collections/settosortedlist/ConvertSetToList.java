@@ -1,0 +1,17 @@
+package com.collections.settosortedlist;
+import java.util.*;
+
+public class ConvertSetToList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Set<Integer> set = new HashSet<>(Arrays.asList(5, 3, 9, 1));
+		
+		List<Integer> list = new ArrayList<>(set);
+		Collections.sort(list);
+		
+		System.out.println(list);
+	}
+
+}
