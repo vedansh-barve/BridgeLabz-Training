@@ -421,8 +421,8 @@ Training Repository/
 
 ---
 
-**Developer:** Rudresh Sharma  
-**GitHub:** [@rudresh-sharma](https://github.com/vedansh-barve)
+**Developer:** Vedansh Barve  
+**GitHub:** [@vedansh-barve](https://github.com/vedansh-barve)
 
 ---
 
