@@ -130,8 +130,19 @@ Date: 20 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
 
 
 Date: 21 Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
-     -Solved Two Scenario-based Problems (Day-9)
+     -Solved Five Scenario-based Problems (Day-9)
 	 
   🔗 **Code Link:** <br>
   👉[Day-9 Tailor Shop](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/tailorshop)<br>
   👉[Day-9 MedWare House](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/medwarehouse)<br>
+  👉[Day-9 Ecommerce Inventory](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/bst/ecommerceinventory)<br>
+  👉[Day-9 Music App](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/bst/musicapp)<br>
+  👉[Day-9 University Record](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day9/bst/universityrecordsystem)<br>
+
+Date: 22  Jan 2026  (Data Structure Algorithms(Scenario-Based))<br>
+     -Solved Three Scenario-based Problems (Day-10)
+	 
+  🔗 **Code Link:** <br>
+  👉[Day-10 Gaming App](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day10/avl/gamingapp)<br>
+  👉[Day-10 Online Ticket Booking](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day10/avl/ticketbooking)<br>
+  👉[Day-10 Hospital Queue](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/scenariobasedproblems/src/com/day10/avl/hospitalqueue)<br>
