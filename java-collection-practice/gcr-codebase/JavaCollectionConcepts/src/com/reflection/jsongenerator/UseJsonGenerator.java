@@ -1,0 +1,13 @@
+package com.reflection.jsongenerator;
+
+public class UseJsonGenerator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		User user = new User("Rahul", 24);
+		
+		String json = JsonUtil.toJson(user);
+		System.out.println(json);
+	}
+
+}
