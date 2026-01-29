@@ -380,13 +380,10 @@ JSON Data Handling
 ### Quick Access Links
 <div align="center">
 
-| 📂 **Week 1: Core Java** | 📂 **Week 2: OOP** | 📂 **Week 3: DSA** | 📂 **Week 4: Collections** | 📂 **Week 5: IO Streams** |
-|:---:|:---:|:---:|:---:|
-| [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice) | [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice) | [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice) | [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-collection-practice) |
-| [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/java-oops-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/dsa-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/java-collection-practice/README.md) |
-[Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/java-collection-practice/README.md) |
-
-
+|                                        📂 **Week 1: Core Java**                                         |                                           📂 **Week 2: OOP**                                            |                                        📂 **Week 3: DSA**                                         |                                           📂 **Week 4: Collections**                                           |                                          📂 **Week 5: IO Streams**                                           |
+| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|       [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice)       |       [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice)       |       [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice)       |       [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-collection-practice)       |       [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-iostreams-practice)       |
+| [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-collection-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-iostreams-practice/README.md) |
 </div>
 
 ---
@@ -404,7 +401,7 @@ JSON Data Handling
 │  💻  Projects Built        50+ Applications             │
 │  🧩  LeetCode Solved       17+ Problems                 │
 │  📚  Topics Covered        25+ Core Concepts            │
-│  🏆  Current Status        Week 6 In Progress           │
+│  🏆  Current Status        Week 3 In Progress           │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
