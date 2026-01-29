@@ -270,48 +270,87 @@ Training Repository/
 <tr>
 <td width="25%">
 
-**Core Java**
-- Variables & Data Types
-- Control Flow & Loops
-- Arrays & Strings
-- Methods & Functions
-- Exception Handling
-- File I/O Operations
-- Regular Expressions
+Core Java
 
-</td>
-<td width="25%">
+Variables & Data Types
 
-**Object-Oriented Programming**
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- UML Modeling
-- Design Patterns
+Control Flow & Loops
 
-</td>
-<td width="25%">
+Arrays & Strings
 
-**Data Structures & Algorithms**
-- LinkedList, Stack, Queue
-- HashMap, HashSet
-- Sorting Algorithms
-- Searching Techniques
-- Complexity Analysis
-- Problem Solving
+Methods & Functions
 
-</td>
-<td width="25%">
+Exception Handling
 
-**Collections & Advanced Java**
-- List (ArrayList, LinkedList)
-- Set (HashSet, TreeSet)
-- Map (HashMap, TreeMap)
-- Generics
-- Streams API
-- JUnit Testing
-- Lambda Expressions
+File I/O Operations
+
+Regular Expressions
+
+</td> <td width="20%">
+
+Object-Oriented Programming
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Abstraction
+
+UML Modeling
+
+Design Patterns
+
+</td> <td width="20%">
+
+Data Structures & Algorithms
+
+LinkedList, Stack, Queue
+
+HashMap, HashSet
+
+Sorting Algorithms
+
+Searching Techniques
+
+Complexity Analysis
+
+Problem Solving
+
+</td> <td width="20%">
+
+Collections & Advanced Java
+
+List (ArrayList, LinkedList)
+
+Set (HashSet, TreeSet)
+
+Map (HashMap, TreeMap)
+
+Generics
+
+Streams API
+
+JUnit Testing
+
+Lambda Expressions
+
+</td> <td width="20%">
+
+Java I/O Streams
+
+Byte & Character Streams
+
+Buffered I/O
+
+File Handling (NIO & IO)
+
+Object Serialization
+
+CSV File Handling
+
+JSON Data Handling
 
 </td>
 </tr>
@@ -330,19 +369,23 @@ Training Repository/
 
 ### Branch Structure
 
-| Week | Branch Name | Focus Area | Status |
-|------|-------------|------------|--------|
-| 1 | `core-java-practice` | Java Fundamentals | ✅ Completed |
-| 2 | `java-oops-practice` | Object-Oriented Programming | ✅ Completed |
-| 3 | `java-dsa-practice` | Data Structures & Algorithms | ✅ Completed |
-| 4 | `java-collections-practice` | Collections in Java |  Ongoing |
+| Week | Branch Name                  | Focus Area                          | Status       |
+| ---- | ---------------------------- | ----------------------------------- | ------------ |
+| 1    | `core-java-practice`         | Java Fundamentals                   | ✅ Completed |
+| 2    | `java-oops-practice`         | Object-Oriented Programming         | ✅ Completed |
+| 3    | `java-dsa-practice`          | Data Structures & Algorithms        | ✅ Completed |
+| 4    | `java-collections-practice`  | Collections in Java                 | ✅ Completed |
+| 5    | `java-iostreams-practice`    | File Handling & I/O Streams in Java | ✅ Completed |
+| 6    | `java8-programming-practice` | Java 8 features and concepts        | ⏳ Ongoing   |
 ### Quick Access Links
 <div align="center">
 
-| 📂 **Week 1: Core Java** | 📂 **Week 2: OOP** | 📂 **Week 3: DSA** | 📂 **Week 4: Collections** |
+| 📂 **Week 1: Core Java** | 📂 **Week 2: OOP** | 📂 **Week 3: DSA** | 📂 **Week 4: Collections** | 📂 **Week 5: IO Streams** |
 |:---:|:---:|:---:|:---:|
 | [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice) | [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice) | [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice) | [View Branch](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-collection-practice) |
 | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/java-oops-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/dsa-practice/README.md) | [Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/java-collection-practice/README.md) |
+[Documentation](https://github.com/vedansh-barve/BridgeLabz-Training/blob/java-collection-practice/README.md) |
+
 
 </div>
 
@@ -361,7 +404,7 @@ Training Repository/
 │  💻  Projects Built        50+ Applications             │
 │  🧩  LeetCode Solved       17+ Problems                 │
 │  📚  Topics Covered        25+ Core Concepts            │
-│  🏆  Current Status        Week 3 In Progress           │
+│  🏆  Current Status        Week 6 In Progress           │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
