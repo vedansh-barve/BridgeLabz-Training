@@ -1,0 +1,66 @@
+-- DATABASE - practice_db;
+
+------------ Insert Patient Into DB-----------
+
+mysql> CREATE TABLE Patient ( 
+	patientID INT AUTO_INCREMENT PRIMARY KEY, 
+	name VARCHAR(50) NOT NULL, 
+	dob DATE NOT NULL, 
+	contact VARCHAR(15) UNIQUE NOT NULL, 
+	address VARCHAR(100) NOT NULL, 
+	blood_group ENUM('A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-') NOT NULL
+);
+
+o/p -> Query OK, 0 rows affected
+
+mysql> INSERT INTO Patient
+	(name, dob, contact, address, blood_group) 
+	VALUES("Ravi", "2026-02-09", "7373738392", "Indrapuri", 'O+');
+	
+mysql> INSERT INTO Patient
+	(name, dob, contact, address, blood_group) 
+	VALUES("Ritesh", "2026-02-10", "8448738392", "Piplani", 'A+');
+	
+mysql> INSERT INTO Patient
+	(name, dob, contact, address, blood_group) 
+	VALUES("Shriyansh", "2026-02-08", "6348738392", "Narela", 'A-');	
+	
+o/p -> Query OK, 1 row affected
+
+
+mysql> Select * From Patient;
+
+
++-----------+-----------+------------+------------+-----------+-------------+
+| patientID | name      | dob        | contact    | address   | blood_group |
++-----------+-----------+------------+------------+-----------+-------------+
+|         1 | Ravi      | 2026-02-09 | 7373738392 | Indrapuri | O+          |
+|         2 | Ritesh    | 2026-02-10 | 8448738392 | Piplani   | A+          |
+|         3 | Shriyansh | 2026-02-08 | 6348738392 | Narela    | A-          |
++-----------+-----------+------------+------------+-----------+-------------+
+
+
+--------------- Update Information---------------
+mysql> UPDATE Patient SET blood_group = 'O-' where patientID = 2;
+
+
+mysql> Select * From Patient where patientID = 2;
+
+o/p - 
++-----------+--------+------------+------------+---------+-------------+
+| patientID | name   | dob        | contact    | address | blood_group |
++-----------+--------+------------+------------+---------+-------------+
+|         2 | Ritesh | 2026-02-10 | 8448738392 | Piplani | O-          |
++-----------+--------+------------+------------+---------+-------------+
+
+
+
+mysql> Select * From Patient where name LIKE 'R%';
+
+o/p - 
++-----------+--------+------------+------------+-----------+-------------+
+| patientID | name   | dob        | contact    | address   | blood_group |
++-----------+--------+------------+------------+-----------+-------------+
+|         1 | Ravi   | 2026-02-09 | 7373738392 | Indrapuri | O+          |
+|         2 | Ritesh | 2026-02-10 | 8448738392 | Piplani   | O-          |
++-----------+--------+------------+------------+-----------+-------------+
